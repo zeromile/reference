@@ -48,6 +48,7 @@ launch the REPL (read-eval-print loop)
 
 Clone WestHillsGeekwise/jrp10
 
+```
 —— app1.js ——
 var http = require('http');
 http.createServer(function (req, res) {
@@ -56,6 +57,7 @@ http.createServer(function (req, res) {
 }).listen(1337, '127.0.0.1');
 console.log('Server running at http://127.0.0.1:1337/');
 ————————
+```
 
 in terminal, navigate to the jrp10 folder and type node app1.js
 
