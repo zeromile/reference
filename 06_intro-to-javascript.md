@@ -1,4 +1,4 @@
-06 - Intro to Javascript
+# 06 - Intro to Javascript #
 
 Javascript is a dynamic language - that means that elements of the program can change while its running. This is possible because JavaScript is a runtime-compiled language - its converted to machine executable code on the fly. That means it needs another application to run; it needs another application to convert it to executable code.
 
