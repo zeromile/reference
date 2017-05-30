@@ -29,15 +29,14 @@ http://www.w3schools.com/js/js_object_definition.asp
 
 Objects contain properties (size, weight, color, etc) and methods (functions/actions)
 
-``` var object = {
+```
+   var object = {
 	brand: ‘volvo’,
 	start: function() {
 		console.log(‘Started car’);
 		}
-	} ```
-
-
-
+	} 
+```
 
 First node server
 
@@ -81,7 +80,3 @@ this will read and return a file
 describe the flow of data
 
 Talk about readFile()
-
-
-
-
