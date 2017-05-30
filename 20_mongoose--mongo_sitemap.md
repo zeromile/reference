@@ -14,5 +14,5 @@
 
 **Project 4 delete**
 
-**Project 5 **
+**Project 5**
 - Use an Angular model to update display data (two-way data binding)
