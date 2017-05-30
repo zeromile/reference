@@ -1,4 +1,4 @@
-* 08 - Conditionals, arrays *
+*08 - Conditionals, arrays*
 
 CONDITIONALS
 Conditionals http://www.w3schools.com/js/js_if_else.asp
