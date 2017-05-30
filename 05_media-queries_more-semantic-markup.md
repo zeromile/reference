@@ -1,4 +1,4 @@
-05 - media queries, more semantic markup
+# 05 - media queries, more semantic markup #
 
 Continue with Bootstrap pet-store site
 
