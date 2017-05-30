@@ -1,4 +1,4 @@
-## 17 - Mongo basics ##
+# 17 - Mongo basics #
 
 left off here: http://codepen.io/jasonleecooksey/pen/RoWdwJ
 
