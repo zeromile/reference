@@ -12,7 +12,7 @@ The reason for bootstrap is in its name. The term “bootstrapping” in busines
 
 Once you know bootstrap you can use it to quickly build an MVP, utilizing built in responsive layouts and predefined code snippets, without having to worry about browser compatibility.
 
-getboostrap.com/components to see all the cools things we can use
+http://getboostrap.com/components to see all the cools things we can use
 
 TRY OUT BOOTSTRAP
 
@@ -25,7 +25,7 @@ TRY OUT BOOTSTRAP
 DOWNLOAD TEMPLATE
 
 1. create jrp04 in projects folder
-2. got to getboostrap.com boilerplate “Download Bootstrap” button 
+2. go to http://getboostrap.com boilerplate “Download Bootstrap” button 
 3. Unzip the file and move the CSS, fonts, and js folders into the jrp04 folder
 4. In the css folder 
     1. remove theme files and css.map file
